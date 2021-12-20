@@ -1,0 +1,13 @@
+.addButton {
+  width:200px;
+  height: 40px;
+  border-radius: 10px;
+  float: right;
+}
+.title {
+  float: left;
+}
+.header {
+  padding: 50px;
+  padding-top: 25px;
+}

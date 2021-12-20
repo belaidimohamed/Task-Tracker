@@ -1,13 +1,12 @@
 import React from 'react'
-import { Button } from '@mui/material'
+import Header from '../../components/header/header'
 
-function home() {
+function Home() {
   return (
     <div>
-      <h1>Task tracker</h1>
-      <Button variant="contained" color="success"> Add </Button>
+      <Header />
     </div>
   )
 }
 
-export default home
+export default Home

@@ -1,8 +1,10 @@
-import home from './views/home/home'
+import Home from './views/home/home'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
   return (
     <div className="App">
-      <home />
+      <Home />
     </div>
   );
 }
